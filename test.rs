@@ -1,0 +1,3 @@
+#[feature(globs)];
+
+mod view;
